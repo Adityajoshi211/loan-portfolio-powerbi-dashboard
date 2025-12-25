@@ -1,5 +1,6 @@
 # loan-portfolio-powerbi-dashboard
 End-to-end Loan Portfolio Analysis using MySQL &amp; Power BI; Excel; DAX;
+
 # Loan Portfolio Analysis – Power BI Dashboard
 
 ## 📌 Project Overview
@@ -33,8 +34,7 @@ It helps analyze loan disbursement, repayments, defaults, and outstanding amount
 - Dimension Tables: Customers
 
 ## 📷 Dashboard Preview
-(Screenshots available in the Screenshots folder)
-
+![Dashboard Overview](Screenshots/dashboard_overview.png.png)
 ## 🚀 Key Learnings
 - Star schema data modeling
 - Writing optimized DAX measures
