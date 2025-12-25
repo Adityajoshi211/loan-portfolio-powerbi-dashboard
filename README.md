@@ -67,4 +67,18 @@ Raw CSV files used to populate the MySQL database.
 - payments.csv
 - defaults.csv
 
+## 🧮 DAX Calculations
+
+Key KPIs were created using DAX in Power BI.
+
+DAX formulas are documented here:
+- `DAX/dax_measures.md`
+
+Includes calculations for:
+- Total Disbursed Amount
+- Total Paid Amount
+- Outstanding Amount
+- Default Rate
+- Total Customers
+
 These files were imported into MySQL and later used for Power BI analysis.
