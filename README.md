@@ -56,3 +56,15 @@ The project uses a MySQL database (`loan_portfolio`) created using CSV imports a
 - `SQL/schema.sql` – database and table structure
 - `SQL/loan_portfolio.sql` – full database dump (schema + data)
 - `SQL/analysis_queries.sql` – business analysis queries
+
+## 📁 Dataset (CSV Files)
+
+Raw CSV files used to populate the MySQL database.
+
+### Files
+- customers.csv
+- loans.csv
+- payments.csv
+- defaults.csv
+
+These files were imported into MySQL and later used for Power BI analysis.
